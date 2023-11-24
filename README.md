@@ -1,3 +1,3 @@
 # mega-sena-lottery
  mega-sena-lottery
-![simulacao_sorteio.png]
+![/simulacao_sorteio.png]
